@@ -3,7 +3,7 @@ Repository for NLP Class Final Project
 
 ## Getting Started
 
-step 1) download ms coco (dataset)[https://cocodataset.org/#download]
+step 1) download ms coco [dataset](https://cocodataset.org/#download)
 
 step 2) unzip annotations_trainval2017.zip and train2017.zip
 
