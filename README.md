@@ -17,5 +17,7 @@ step 4) uncomment parts for trainTransformer.py where specified:
  
  you can leave them commented after the first run of the program
  
+step 5) Train the model using python3 trainTransformer.py
+ 
 ## Evaluating Images
 To evaluate an image simply add it to the Code/evaluation_images directory, then run the "evaluate_dir.py" program or the "evaluate_dir_withTTS.py" to use text to speech. Make sure there is a checkpoints folder to load the model from (this will be generated during training). Unfortunately, the models are too large to upload to github, so training must be completed from scratch in order to use the models.
